@@ -1,0 +1,25 @@
+1.	Fastest sorting Algorithm?
+https://www.youtube.com/watch?v=4Q72kbwyEmk 
+
+2.	Prepare DS and algorithms in 3 months?
+https://www.youtube.com/watch?v=bBPHpH8aKjw
+
+3.	Find numbers add up to a target no.?
+https://www.youtube.com/watch?v=nqlNzOcnCfs
+
+4.	Dynamic programming?
+Fibonaccci with memorization.
+https://www.youtube.com/watch?v=vYquumk4nWw
+
+Cheat Sheet for Data Structures and Algorithms:
+https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+Data Structure and Algorithm Comparison:
+https://medium.com/omarelgabrys-blog/diving-into-data-structures-6bc71b2e8f92
+https://medium.com/omarelgabrys-blog/data-structures-a-quick-comparison-6689d725b3b0
+
+Problem Solving:
+
+Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
+Bonus: Can you do this in one pass?
